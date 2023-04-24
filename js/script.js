@@ -3,6 +3,7 @@
 const pokemon_name = document.querySelector(".pokemon__name");
 const pokemon_number = document.querySelector(".pokemon__number");
 const pokemon_image = document.querySelector(".pokemon__image");
+
 //formulario
 const form = document.querySelector(".form");
 const input = document.querySelector(".input__search");
